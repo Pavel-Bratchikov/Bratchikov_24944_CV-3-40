@@ -54,7 +54,7 @@ venv\Scripts\activate      # Windows
 3. **Install Python dependencies:**
 
 ```bash
-pip install opencv-python numpy pytesseract
+pip install -r requiments.txt
 ```
 
 4. **Install Tesseract OCR engine:**
